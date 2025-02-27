@@ -19,6 +19,10 @@ This project implements and compares various machine learning classification alg
 - `tidyr` & `dplyr`: Data manipulation and cleaning
 
 ## Algorithms Implemented
+
+![Screenshot 2025-02-27 140934](https://github.com/user-attachments/assets/9544822e-c3d0-4bf3-a7b9-87f7490d753d)
+
+
 1. **Logistic Regression**
    - Binary classification model
    - Probability-based predictions
@@ -44,6 +48,9 @@ This project implements and compares various machine learning classification alg
    - Original dataset from CSV
    - Synthetic dataset from RData file
 
+![Screenshot 2025-02-27 141002](https://github.com/user-attachments/assets/53303fca-4c30-4120-89f9-f9eeb7f0a03a)
+
+
 2. **Preprocessing**
    - Missing value handling for key metrics:
      - Glucose
@@ -67,6 +74,9 @@ This project implements and compares various machine learning classification alg
 - F1-Score
 - ROC Curves
 - AUC (Area Under Curve)
+
+![Screenshot 2025-02-27 140907](https://github.com/user-attachments/assets/c9e71fbe-6660-404d-9ddb-2b247c3d05c4)
+
 
 ## Visualization Techniques
 - Performance comparison plots
